@@ -1,0 +1,6 @@
+{
+  "name": "Coloring Book Generator",
+  "description": "An interactive childrens coloring book generator. Create printable black-and-white line-art books centered on a chosen theme, customized with the child's name, complete with a cover page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
